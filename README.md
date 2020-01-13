@@ -1,10 +1,19 @@
 # ISEP-APROG-2019
 
+##### EN
 Resolution of APROG modules and Final Project.
 
 Language used: Java
 
 Each module has a statement on 'Statements' folder.
+
+--------------------------------
+##### PT
+Resolução dos módulos de avaliação de APROG e do Projeto Final.
+
+Linguagem usada: Java
+
+Cada módulo, assim como o projeto final têm o respetivo enunciado na pasta 'Statements'.
 
 --------------------------------
 Every module was submitted and tested via 'Mooshak'[1].
@@ -19,5 +28,5 @@ Mooshak is an Open Source Software distributed under Artistic License.
 -----------------------------
 
 
-####References
-Mooshak - https://mooshak.dcc.fc.up.pt/
+#### References
+[1] - https://mooshak.dcc.fc.up.pt/
