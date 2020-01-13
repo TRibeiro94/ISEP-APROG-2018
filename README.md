@@ -5,7 +5,7 @@ Resolution of APROG unit course modules and Final Project.
 
 Language used: Java
 
-Each module has a statement on 'Statements' folder.
+Each module has a respective statement on 'Statements' folder, same applies to the final project.
 
 --------------------------------
 ##### PT (Algoritmia e Programação)
