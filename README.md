@@ -1,14 +1,14 @@
 # ISEP-APROG-2019
 
-##### EN
-Resolution of APROG modules and Final Project.
+##### EN (Algorithmic and Programming)
+Resolution of APROG unit course modules and Final Project.
 
 Language used: Java
 
 Each module has a statement on 'Statements' folder.
 
 --------------------------------
-##### PT
+##### PT (Algoritmia e Programação)
 Resolução dos módulos de avaliação de APROG e do Projeto Final.
 
 Linguagem usada: Java
