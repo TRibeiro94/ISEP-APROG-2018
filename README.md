@@ -8,12 +8,20 @@ Language used: Java
 Each module has a respective statement on 'Statements' folder, same applies to the final project.
 
 --------------------------------
+
+1º Year, 1º Semester
+
+--------------------------------
 ##### PT (Algoritmia e Programação)
 Resolução dos módulos de avaliação de APROG e do Projeto Final.
 
 Linguagem usada: Java
 
 Cada módulo, assim como o projeto final têm o respetivo enunciado na pasta 'Statements'.
+
+--------------------------------
+
+1º Ano, 1º Semestre
 
 --------------------------------
 Every module was submitted and tested via 'Mooshak'[1].
